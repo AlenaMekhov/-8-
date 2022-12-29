@@ -191,6 +191,12 @@ footer p {
     width: 160px;
     box-shadow: 0 10px 15px 0 navy;
 }
+.resurs a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+}
 .DZ {
     text-align: center;
     color: white;
